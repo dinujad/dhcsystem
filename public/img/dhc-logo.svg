@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 340" fill="none" role="img" aria-labelledby="dhcTitle">
+  <title id="dhcTitle">DHC Footwear</title>
+  <g transform="translate(64 28) skewX(-12)">
+    <path fill="#111111" fill-rule="evenodd" d="M0 0h118c80 0 124 42 124 108S198 216 118 216H0V0Zm56 60v96h48c38 0 60-18 60-48s-22-48-60-48H56Z"/>
+    <path fill="#111111" d="M284 0h54v80h80V0h54v216h-54v-80h-80v80h-54V0Z"/>
+    <path fill="#E31C24" d="M712 0c-108 0-180 44-180 108s72 108 180 108v-58c-70 0-110-18-110-50s40-50 110-50V0Z"/>
+  </g>
+  <text x="430" y="312" text-anchor="middle" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="800" letter-spacing="18">FOOTWEAR</text>
+</svg>
